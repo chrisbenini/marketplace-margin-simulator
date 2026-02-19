@@ -39,6 +39,15 @@ O simulador entrega o **lucro real antes da decisão de venda**, permitindo esco
 
 ---
 
+## 🎥 Vídeo de demonstração e uso
+
+Vídeo explicativo demonstrando o funcionamento do simulador, fluxo de utilização e lógica de análise de margem e precificação.
+
+🔗 Acessar vídeo:
+https://drive.google.com/file/d/17rXjmQGNlr78ZloFb-2pfEluziw_E-Um/view?usp=drive_link
+
+---
+
 ## 📸 Demonstração
 
 ### Tela inicial

@@ -42,10 +42,10 @@ O simulador entrega o **lucro real antes da decisão de venda**, permitindo esco
 ## 📸 Demonstração
 
 ### Tela inicial
-![Tela Inicial](Inicio.png)
+![Tela Inicial](Images/Inicio.png)
 
 ### Tela de cálculos e comparativos
-![Tela de Cálculos](Calculos.png)
+![Tela de Cálculos](Images/Calculos.png)
 
 ---
 

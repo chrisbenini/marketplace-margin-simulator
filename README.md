@@ -1,97 +1,123 @@
-# 📊 Marketplace Margin Simulator
+<h1 align="center">
+📊 Marketplace Margin Simulator
+</h1>
 
-Simulador profissional de **precificação e análise de margem para marketplaces**, desenvolvido em Excel com foco em tomada de decisão estratégica.
+<p align="center">
+Simulador profissional de <b>precificação e análise de margem</b> para marketplaces.
+<br>
+Construído em Excel para tomada de decisão estratégica.
+</p>
 
-Ferramenta criada para empresas que precisam entender o **lucro real por canal de venda** antes de anunciar.
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Excel-Automation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-Pricing-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Marketplace-Sellers-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 
-## 🚀 Funcionalidades
-
-- Cálculo de margem bruta e líquida  
-- Simulação de preço ideal de venda  
-- Comparação entre marketplaces  
-- Indicador de rentabilidade por canal  
-- Consolidação total de resultados  
-- Análise por produto ou portfólio  
-
----
-
-## 🛒 Marketplaces suportados
-
-- Mercado Livre (Clássico, Premium, Full / Super)  
-- Shopee  
-- Amazon  
+</p>
 
 ---
 
-## 🎯 Problema que resolve
+## 🚀 Sobre o Projeto
 
-Grande parte dos sellers define preço sem visualizar o impacto real de:
+Ferramenta criada para ajudar empresas e sellers a entenderem o **lucro real antes de anunciar produtos** em marketplaces.
 
-- Comissão do marketplace  
-- Taxas logísticas  
-- Impostos  
-- Custo do produto  
-- Frete e despesas operacionais  
+O simulador permite visualizar rapidamente:
 
-O simulador entrega o **lucro real antes da decisão de venda**, permitindo escolha estratégica do melhor canal.
-
----
-
-## 🎥 Vídeo de demonstração e uso
-
-Vídeo explicativo demonstrando o funcionamento do simulador, fluxo de utilização e lógica de análise de margem e precificação.
-
-🔗 Acessar vídeo:
-https://drive.google.com/file/d/17rXjmQGNlr78ZloFb-2pfEluziw_E-Um/view?usp=drive_link
+✔ Margem real  
+✔ Preço ideal de venda  
+✔ Rentabilidade por canal  
+✔ Comparativo entre marketplaces  
 
 ---
 
-## 📸 Demonstração
+## 🛒 Marketplaces Simulados
 
-### Tela inicial
-![Tela Inicial](images/Inicio.png)
+<p align="center">
 
-### Tela de cálculos e comparativos
-![Tela de Cálculos](images/Calculos.png)
+<img src="https://skillicons.dev/icons?i=amazon"/>
+<img src="https://img.shields.io/badge/Mercado%20Livre-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shopee-orange?style=for-the-badge"/>
 
----
-
-## 🧠 Sobre o Desenvolvedor
-
-Desenvolvido por **Christopher Benini**
-
-Especialista em:
-
-- Automação para varejo  
-- Extração e tratamento de dados  
-- Integração Excel + SQL  
-- Desenvolvimento de ferramentas desktop  
-- Otimização de processos operacionais  
-
-Atuação focada em transformar processos manuais em soluções práticas e utilizáveis pelo time operacional.
+</p>
 
 ---
 
-## 🔒 Produto Comercial
+## ⚡ Principais Funcionalidades
 
-Este repositório contém apenas demonstração visual.
-
-A planilha completa é disponibilizada como solução personalizada para empresas, com:
-
-- Parametrização de taxas reais  
-- Ajuste conforme regime tributário  
-- Customização conforme modelo operacional  
-- Orientação de uso  
+- 📈 Simulação automática de preço
+- 💰 Cálculo de margem bruta e líquida
+- 🔍 Comparação entre canais
+- 📊 Indicador de rentabilidade
+- 🧮 Consolidação de resultados
+- 📦 Análise por produto ou portfólio
 
 ---
 
-## 📩 Contato
+## 🎥 Demonstração
 
-**Christopher Benini**  
-📧 Email: chrisbenini13@gmail.com  
-📱 WhatsApp: (17) 98147-8331  
-🔗 GitHub: https://github.com/chrisbenini  
+<p align="center">
+<a href="https://drive.google.com/file/d/17rXjmQGNlr78ZloFb-2pfEluziw_E-Um/view?usp=drive_link">
+👉 Assistir demonstração do projeto
+</a>
+</p>
 
 ---
+
+## 📸 Preview
+
+### 🖥️ Tela Inicial
+<img src="images/Inicio.png"/>
+
+### 📊 Cálculos e Comparativos
+<img src="images/Calculos.png"/>
+
+---
+
+## 🧠 Tecnologias & Conceitos
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=excel,github"/>
+<img src="https://img.shields.io/badge/Automation-Excel-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Driven-Decision%20Making-blue?style=for-the-badge"/>
+
+</p>
+
+- Automação em Excel  
+- Modelagem de precificação  
+- Análise financeira  
+- Tomada de decisão baseada em dados  
+
+---
+
+## 🔒 Versão Comercial
+
+Este repositório apresenta apenas a **versão demonstrativa**.
+
+A solução completa inclui:
+
+- Parametrização tributária
+- Ajustes operacionais
+- Customização empresarial
+- Suporte de implementação
+
+---
+
+## 👨‍💻 Autor
+
+**Christopher Benini**
+
+📧 chrisbenini13@gmail.com  
+📱 (17) 98147-8331  
+
+<p align="center">
+<a href="https://github.com/chrisbenini">
+<img src="https://img.shields.io/badge/GitHub-Christopher%20Benini-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+⭐ Se achou interessante, deixe uma estrela no projeto!

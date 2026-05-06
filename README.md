@@ -59,12 +59,18 @@ O simulador calcula automaticamente custos, taxas e comissões para mostrar o **
 
 ---
 
+---
+
 ## <span style="background: linear-gradient(90deg,#22c55e,#bbf7d0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> demo`</span>
 
 <p align="center">
+
 <a href="https://drive.google.com/file/d/17rXjmQGNlr78ZloFb-2pfEluziw_E-Um/view?usp=drive_link">
-▶ Assistir demonstração do simulador
+
+<img src="https://img.shields.io/badge/▶%20Assistir%20Demonstração%20do%20Projeto-16a34a?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=14532d"/>
+
 </a>
+
 </p>
 
 ---
